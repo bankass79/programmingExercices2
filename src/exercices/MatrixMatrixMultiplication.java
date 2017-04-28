@@ -1,5 +1,9 @@
 package exercices;
 
+/**
+ * @author amadou
+ *
+ */
 public class MatrixMatrixMultiplication {
 
 	public static void main(String[] args) {
